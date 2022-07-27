@@ -151,10 +151,13 @@ How do I solve that in fiction? Everybody in the room at the same time.
 
 # The room where it happens. 
 
+* This is a sprint
 * Can be a zoom room. 
 * Need a collaborative writing platform (drive, dropbox, etherpad, overleaf, idc) 
 * You all give equal time. 
 * Never a time when you don't have stuff to do. 
+* They are fun, but they are still work and you need a few of them
+
 
 > Looking at the submission guidelines, I think we probably need three three hour sprints to really crush this. If everybody is in, then I'll send a Doddle poll out. 
 
@@ -188,6 +191,8 @@ Because the first thing you need is a structure.
 
 * Keep Adding bullet points until you have one per paragraph that you expect in the final paper. 
 * Other people (your structural reviewer) should be able to read the bullet points and understand (if NOT believe) your paper. 
+* You will want to jump around when bulleting. That's cool, that's the point
+* People remove your great ideas. 
 
 ---
 # Veto Reviewer
