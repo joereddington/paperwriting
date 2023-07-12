@@ -97,7 +97,7 @@ The author of this version has done some work. Deadlines have been established. 
 Let's head off another issue: 
 
 > ... rejects it, then we'd have two weeks to revise before we could send it to the National Conference on Banking Transactions on 19th October.  
-> I'm proposing an author list of Banner, Strange, Octavius. 
+> I'm proposing an author list of Walters, Williams, van Dyne. 
 
 
 We'd like to pretend this is never an issue and yet we've all dealt with it. 
@@ -113,7 +113,7 @@ To stop your paper dying you need to know who is in which group:
 * The reviewers 
 * The vetoing reviewers. 
 
-'Vetoing reviewers' can be a subset of authors cannot intersect with writers or reviewers.  Writers and reviewers also can't intersect. Writers is a subset of Authors.  
+'Vetoing reviewers' can be a subset of Authors but cannot intersect with writers or reviewers.  Writers and reviewers also can't intersect. Writers is a subset of Authors.  
 
 TODO - venn diagram 
 
@@ -127,7 +127,7 @@ I'll talk about how to manage each of these groups
 
 * Every person in the group should have a role. Why did you invite them? What do they bring? 
  
-> I see our contributions as my take on international Banking, Strange's wider view on interdimensional banking and Banner's expertise in transactional analysis. 
+> I see our contributions as my take on international Banking, Williams' wider view on interdimensional banking and Walters' expertise in transactional analysis. 
 
 * There are necessary roles as well. 
     * Destination
@@ -189,8 +189,8 @@ Because the first thing you need is a structure.
 
 * Produce a set of bullet points for your paper. Review and revise until you agree. Then produce more. 
 
-* Keep Adding bullet points until you have one per paragraph that you expect in the final paper. 
-* Other people (your structural reviewer) should be able to read the bullet points and understand (if NOT believe) your paper. 
+* Keep adding bullet points until you have one per paragraph that you expect in the final paper. 
+* Other people (your structural reviewer) should be able to read the bullet points and understand (if not believe) your paper. 
 * You will want to jump around when bulleting. That's cool, that's the point
 * People remove your great ideas. 
 
@@ -222,192 +222,3 @@ Because the first thing you need is a structure.
 * Waiting for Important Professor to look at it. 
 
 
-
---- 
-
-
-
-
---- 
-
-
-# The Open Voice Factory
-* We think AAC should be completely free
-* We recognise that cost comes in different forms 
-
-When we founded eQuality Time, we wanted to make open and free AAC software a key part of what we do.  
-
-* Step one was producing [CommuniKate](http://communikate.equalitytime.co.uk/), the open access pageset
-* Step two was the Open Voice Factory. 
-
---- 
-# Intermission 
-|  |   |   | | 
-|-----------------|------------------|----------------------|----------------------------|
-| Paulo Ricca     | Alison Carpenter | André Nascimento     | Megan Hughes               |
-| Brian Whitmer   | Trevor Mobbs     | Carla Pinto          | Anna Flynn                 |
-| David Niemeijer | Diana Mountain   | Miguel Bento Alves   | Janet and Michael Williams |
-| Hugo Pacheco    | Fil McIntyre     | Laurine Groux-Moreau | Joe Reddington             |
-| Will Wade       | Angie McCormac   | Maria Hewett         | Kate McCallum              |
-| Margarida Pinto | Janet Mayers     | Paul Hewett          | Kirsty McNaught            |
-| Ian Foulger     | Katie Clarke     | Gemma Eardley        | Steve Canny                |
-| Julie Bello     | Helen Quiller    | Zak Sly              | Tom Bamber                 |
-| Marlene Padrão  | Helen Dixon      | Stef Armitage        | Ivona Hristova             |
-| José Danado     | Tamsin Crothers  | Sally Featon         | Jaroslav Ryník             |
-
-
-
----
-# How the Open Voice Factory works
-* The Open Voice Factory is about free AAC 
-* [Fully live site](http://www.theopenvoicefactory.org/)
-* For all the missing people 
-* Edit by PowerPoint. 
-* Uses the Open Board format 
-* Entirely Open Source 
-* It has failed. 
-
-# Presenter Notes
-This presentation isn't strictly speaking about the Open Voice Factory, but you need to know a bit about it to go forwards  
-
-18,000 people in the UK would benefit from powered AAC but don't have access. Cost is understood to be one of the big barriers. And it's not just that the system costs a grand it's the time and the energy of the appointments to be assessed for funding.  
-
-So we started the Open Voice Factory - which is an entirely free AAC device. If you go to the website you can click the link and use the default version. 
-
-If you want to edit it, that's cool, we actually use Powerpoint as the editing device, you download the file, make changes to it, and then upload it again.  The Open Voice Factory will give you a unique link that is to the aid you just created.   
-
-It uses the Open Board format so it's entirely compatible with things like CoughDrop and Optikey. 
-
-This was how I was going to change the world, and it's failed. People aren't using it and I don't know why.  I wish I did, I and lots of other people have poured our hearts into it and it's not getting used. So if anyone has an idea, then I am all ears. 
-
-I'm going to keep running it, almost entirely out of stubboness, but that's actually the subject of this talk. And I should move on.  
-
---- 
-
-# Comic Relief 
-
-We are ridiculously grateful to Comic Relief; both the funding at the way they awarded it. 
-
-* Where we were beforehand
-* Simply entry: video and single page
-* Video is at: 
-* Fund wasn't actually for us. 
-* Tech person in interview
-* shortlist meant it was 50-50.
-* Serious group - Samaritans, Oxfam 
-* Didn't need a plan 
-
-# Presenter Notes
-So the reason for the talk is that Comic Relief gave us £45,000 to work on the Open Voice Factory and it would be good to tell people what we did with it. There are things I'm proud of and things I'm ashamed of. 
-
-Lots of things happened and I've tried to pick out the things that I think you would be interested in. The rest of the talk is roughly divided between those things however, I'm going to be lead by you. If you look bored I'm going to move on, if you look interested I'll spend a bit more time with it. If I skip your favourite bit then come see me afterwards I'll talk about it personally.  
-
-So, watching your faces carefully... I'm going to talk about how to get comic relief to give you £45,000, which I think will be useful because some of you have similar projects. Okay, 
-
-I'm going to talk about the overall project plan, what we wanted to do and how we wanted to do it. 
-
-I'm going to talk about medical device registration, hopefully in an interesting way, and if any of you are event thinking about developing any tools or resources then you'll need to hear that.  
-
-I'm going to talk about Fraud, it's not particularly AAC related, but it happened to us, it wasn't very nice and we got hurt. And if you are ever going to pay a programmer you might want to know about it.  
-
---- 
-# Act 2: The problems to solve and building a team.  
-
---- 
-
-# Problems 
-* People didn't know much about it. 
-* We might be doing it wrong. 
-* Medical device registration: like parking a aircraft carrier
-
-
-# Plan 
-* Find a cohort and interview them
-  * Pass the feedback to the coders 
-  * Ask them again 
-
-If we go around that loop enought then we'll be sure. 
-
-Bonus. 
-
-Ask serious and important people. 'Alpha Pup strategy'   
-
-Meanwhile - spend money on Medical Device Registration. Get a consultant, do the business 
-
---- 
-
-
-# Building a team. 
-
-* Me. 
-* Pageset Designer
-* Documentation Writer.  
-* Coders 
-* Medical Device Consultant 
-
-Everyone given/told about their first jobs
-
-# Presenter Notes
-
-If you haven't ever managed a project should you probably know that 90% of your budget is staff. Everything else is just noise.  Staff is everything. 
-
-
---- 
-# Getting started 
-
-* Gathered our people. Some where easier than others: 
-	* Lee Ridley 
-	* RCSLT/CM
-	* Academics 
-	* Users
-        * NCOs
-* Customer is always right 
-* Created a big set of issues to deal with. 
-  * Some for me, some for programmers, some for designers 
-
-Lots of good content lots of things changed.  
-
-
---- 
-# Medical Device Registration 
-
-* Restructure the whole organisation
-* Very clear written processes in place for everything. 
-* The actual submission isn't about the device, it's a set of evidence. 
-* Need to comply with a range of ISOs, which you have to pay for
-* Literally never been done with an open source device. 
-
---- 
-# Rocks fall 
-
-* Fraud
-* Caused by lack of capacity 
-
---- 
-# Act 3: Medical Device Registration and new system 
-
-* More consultants 
-* More paperwork
-* Hero volunteers 
-* Snotty Crying
-
---- 
-# Conclusions
-
-* We aren't going to stop. 
-  * Open source will come and we are putting cracks in the wall
-* We remain a serious bit of the puzzle. 
-* I'm in the mood for something big and bold 
-
---- 
-
-# Goals for Talk
-* Everybody is aware of the risks of launching a new project  
-* Everybody understands why open projects are resilient to this. 
-* Everyone gets a healthy respect of Medical Device Registration.
-* Someone might tell me what I'm doing wrong. 
-* Nobody stays if they aren't enjoying themselves. 
-
---- 
-
-# Questions
