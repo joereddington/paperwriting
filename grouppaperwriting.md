@@ -195,6 +195,12 @@ Because the first thing you need is a structure.
 * People remove your great ideas. 
 
 ---
+
+# First draft reviewer 
+
+* Assume, with this process that your first draft will be 25% too long. Don't optimise too soon, the reviewer will help with this. 
+
+---
 # Veto Reviewer
 
 * If you are one, you should drive the paper. 
@@ -202,6 +208,7 @@ Because the first thing you need is a structure.
 * Build evidence of approval 
 * Be clear how hard you are working. 
 * Arrange to present (NOT email) to them after every sprint. 
+* "If you don't get anything from me by X, consider it fine"
 
 --- 
 
