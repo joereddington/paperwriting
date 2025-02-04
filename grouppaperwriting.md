@@ -1,85 +1,70 @@
 # Effective Collaborative Paper Writing 
 
+---
 
-# Presenter Notes
-Thank you everyone for coming. We all have big workloads and I really appreciate you picking out this session and giving me your attention for an hour. I really hope you get a lot out of it.    
+# Why this talk is a bad idea
 
---- 
-# Housekeeping
+* I have written almost no papers. 
+* I have not deployed any of these ideas in groups of more than 3
+* Everybody has an opinion on how to write and nobody wants to change. 
 
-* You can view this presentation at http://joereddington.com/slides/cm2019/
 
-* Who Have I got? (show of hands)  
+(btw - You can view this presentation at [https://joereddington.com/paperwriting/](https://joereddington.com/paperwriting/)) 
 
-# Presenter Notes
-Let's start with housekeeping, if you have trouble seeing the slides in this room you can bring them up on your own devices with that link. Handy if you want to quickly go back or indeed, skip to the end. 
+
 
 ---
 
-# Ego slide
+# Why this talk is a good idea 
 
-* Dr Joseph Redington @joereddington
-* Computer Scientist
-* eQuality Time, charity set up in 2014, major project is White Water Writers. 
---- 
+* Lots of papers die in inboxes and we should talk about that wasted effort.  
+* I _do_ know quite a bit about collaborative writing in other settings 
+* We need to have the conversion as a group and agree some terms. 
 
-# Goals for Talk
-* To give you a set of processes and principles that you can use and thus... 
-* To save you at least an hour of pain next time you write a paper with other people and thus: 
-* More papers written, faster, frontiers of science pushed back. 
-* Nobody stays if they aren't enjoying themselves. 
+
 
 --- 
+# Buckaroo
 
-# Contents
-
-* Where I come from. 
-* The problems to solve. 
-
-* The research. 
-* The first email. 
-* Roles, times, and tools. 
-  * Reviewers 
-* Process.   
-  * Specification 
-  * Design 
-  * Drafting 
-  * Submission. 
-
-
----
-# The research 
-
-...You should probably do the work first.  
-
----
-
-# The first email. 
-
-
-This is bad: 
-
-> Yo, you guys want to write a paper about our work with me? We'd probably send it to one of the journals in psychology? 
-
-
-The person who wrote this hasn't bothered to solve any of the hard problems.
+<img src="buck.jpg" alt="buckeroo" width="650"/>
 
 --- 
 
 # Paper drama 
-* Four people expecting to do 25% of the work. 
+* Four people believing  they are doing 30% of the work, when they are really doing 20%
 * Nobody wants to write the first draft.  
 * Where is it going?  When? 
 * I did the last version
-* Author order. 
-* Waiting for Important Professor to look at it. 
+* Author order
+* Waiting for Important Professor to look at it
 
 # Result 
 * Paper dies quietly in three inboxes. 
 
+---
+
+# Specification 
+
+* Solving the hardest problems as early as possible 
+* Make as many implicit things explicit as early as possible
+* Get your "No" answers as early as possible
+
 --- 
 
-Most of these problems can be solved in the first email. Let's change one thing.  
+# Prep
+
+
+This is bad: 
+
+> Hey, you guys want to write a paper about our work with me? We'd probably send it to one of the journals in psychology? 
+
+
+The person who wrote this hasn't bothered to solve any of the hard problems.
+
+
+--- 
+
+Let's change one thing: 
 
 > Yo, you guys want to write a paper about our work for IEEE Transactions on Transactional Analysis of Banking Transactions? The next deadline is 3rd of March, which gives us three weeks.    
 
@@ -87,7 +72,7 @@ Most of these problems can be solved in the first email. Let's change one thing.
 
 We can do better: 
 
-> Yo, you guys want to write a paper about our work for IEEE Transactions on Transactional Analysis of Banking Transactions? The next deadline is 3rd of March, which gives us three weeks.  If we miss that deadline I'd like to send it to the International Conference on Banking Transations, which has a deadline of 10th March.  If ITTABT rejects it, then we'd have two weeks to revise before we could send it to the National Conference on Banking Transactions on 19th October.  
+> Yo, you guys want to write a paper about our work for IEEE Transactions on Transactional Analysis of Banking Transactions? The next deadline is 3rd of March, which gives us three weeks.  If we miss that deadline I'd like to send it to the International Conference on Banking Transactions, which has a deadline of 10th March.  If ITTABT rejects it, then we'd have two weeks to revise before we could send it to the National Conference on Banking Transactions on 19th October.  
 
 
 The author of this version has done some work. Deadlines have been established. Failsafes built in. I'm confident this won't die in a drawer. 
@@ -104,7 +89,17 @@ We'd like to pretend this is never an issue and yet we've all dealt with it.
 
 --- 
 
-# Roles 
+# Specification 
+
+* Solving the hardest problems as early as possible 
+* Make as many implicit things explicit as early as possible
+* Get your "No" answers as early as possible
+
+These things will continue to come up as we move forward. 
+
+--- 
+
+# Specialities part 1: groups
 
 To stop your paper dying you need to know who is in which group: 
 
@@ -113,17 +108,13 @@ To stop your paper dying you need to know who is in which group:
 * The reviewers 
 * The vetoing reviewers. 
 
-'Vetoing reviewers' can be a subset of Authors but cannot intersect with writers or reviewers.  Writers and reviewers also can't intersect. Writers is a subset of Authors.  
+'Vetoing reviewers' can intersect with Authors but cannot intersect with writers or reviewers.  Writers and reviewers also can't intersect. Writers is a subset of Authors.  
 
-TODO - venn diagram 
-
-
-I'll talk about how to manage each of these groups 
+.notes: I'll talk about how to manage each of these groups. I'm NOT using 'reviewers' in the sense of reviewer 2, I'm using them in the sense of 'helpful friend who reviews for you'. 
 
 --- 
 
-
-# Roles of Writers. 
+# Specialisation 2: Roles of Writers
 
 * Every person in the group should have a role. Why did you invite them? What do they bring? 
  
@@ -141,23 +132,23 @@ I'll talk about how to manage each of these groups
 # What problems do we have left? 
 
 Here's a selection: 
+
 * Four people expecting to do 25% of the work. 
 * Nobody wants to write the first draft.  
 * I did the last version
 
-How do I solve that in fiction? Everybody in the room at the same time. 
+How do I solve that in fiction? 
 
 ---
 
 # The room where it happens. 
 
 * This is a sprint
-* Can be a zoom room. 
+* Everybody in the same place (can(ish) be zoom) at the same time. 
 * Need a collaborative writing platform (drive, dropbox, etherpad, overleaf, idc) 
 * You all give equal time. 
 * Never a time when you don't have stuff to do. 
 * They are fun, but they are still work and you need a few of them
-
 
 > Looking at the submission guidelines, I think we probably need three three hour sprints to really crush this. If everybody is in, then I'll send a Doddle poll out. 
 
@@ -203,7 +194,6 @@ Because the first thing you need is a structure.
 ---
 # Veto Reviewer
 
-* If you are one, you should drive the paper. 
 * Keep them in the loop. 
 * Build evidence of approval 
 * Be clear how hard you are working. 
