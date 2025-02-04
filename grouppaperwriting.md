@@ -144,7 +144,7 @@ How do I solve that in fiction?
 # The room where it happens. 
 
 * This is a sprint
-* Everybody in the same place (can(ish) be zoom) at the same time. 
+* The writers  in the same place (can(ish) be zoom) at the same time. 
 * Need a collaborative writing platform (drive, dropbox, etherpad, overleaf, idc) 
 * You all give equal time. 
 * Never a time when you don't have stuff to do. 
