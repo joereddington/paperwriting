@@ -9,10 +9,6 @@
 * Everybody has an opinion on how to write and nobody wants to change. 
 
 
-(btw - You can view this presentation at [https://joereddington.com/paperwriting/](https://joereddington.com/paperwriting/)) 
-
-
-
 ---
 
 # Why this talk is a good idea 
@@ -45,6 +41,7 @@
 
 # Specification 
 
+* You must create the conditions for collaborative writing
 * Solving the hardest problems as early as possible 
 * Make as many implicit things explicit as early as possible
 * Get your "No" answers as early as possible
@@ -187,11 +184,6 @@ Because the first thing you need is a structure.
 
 ---
 
-# First draft reviewer 
-
-* Assume, with this process that your first draft will be 25% too long. Don't optimise too soon, the reviewer will help with this. 
-
----
 # Veto Reviewer
 
 * Keep them in the loop. 
