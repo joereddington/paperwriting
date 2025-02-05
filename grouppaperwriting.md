@@ -9,6 +9,8 @@
 * Everybody has an opinion on how to write and nobody wants to change. 
 
 
+(btw - You can view this presentation at [https://joereddington.com/paperwriting/](https://joereddington.com/paperwriting/)) 
+
 ---
 
 # Why this talk is a good idea 
@@ -16,8 +18,6 @@
 * Lots of papers die in inboxes and we should talk about that wasted effort.  
 * I _do_ know quite a bit about collaborative writing in other settings 
 * We need to have the conversion as a group and agree some terms. 
-
-
 
 --- 
 # Buckaroo
@@ -88,6 +88,7 @@ We'd like to pretend this is never an issue and yet we've all dealt with it.
 
 # Specification 
 
+* Creating the conditions 
 * Solving the hardest problems as early as possible 
 * Make as many implicit things explicit as early as possible
 * Get your "No" answers as early as possible
@@ -194,20 +195,13 @@ Because the first thing you need is a structure.
 
 --- 
 
-# What we know so far. 
-* Start with a very long email. 
-* Everybody in the same room at the same time.  
-* Strong internal review network  
-* Structure first. 
+# Summary 
+* Specification: create the conditions 
+* Specialisation: everybody has a role 
+* Structure: NO wasted effort
+* Sprint: everybody in the room. 
 
 --- 
 
-# Revisiting the problems from the start 
-* Four people expecting to do 25% of the work. 
-* Nobody wants to write the first draft.  
-* Where is it going?  When? 
-* I did the last version
-* Author order. 
-* Waiting for Important Professor to look at it. 
-
-
+# Questions, opinions, thoughts...
+* Also please let me manage your paper writing process...  
